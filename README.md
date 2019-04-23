@@ -1,1 +1,1 @@
-# shotz
+#SHOTZ INSTRUCTIONS
